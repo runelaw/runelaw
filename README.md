@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @runelaw
 - 👀 I’m a philomath- A person who loves the process of learning almost anything and everything.My interests are varied but my major fields would be Mathematics and Computer Science, just everything about it.
+- <a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ner0" width="400"/>
+</a>
 - 🌱 I’m currently learning automation, bot-building and have soaked my hands into data science.
 - 💞️ I’m looking to collaborate on data science and automation projects
 - 📫 How to reach me @vagarunt.05 on Instagram
