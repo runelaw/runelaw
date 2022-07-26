@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on data science and automation projects
 - 📫 How to reach me @vagarunt.05 on Instagram
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=ner0" width="400"/>
+<a href="prakhargusain.netlify.com">
+  My personal website
 </a>
 <!---
 runelaw/runelaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
